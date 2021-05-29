@@ -29,4 +29,3 @@ def calculator(choice, a, b):
 
 result = (calculator(choice1, num1, num2))
 print(result)
-
